@@ -11,8 +11,7 @@ public class Mensagem implements Serializable {
     private long id;
     private String mensagem;
 
-    public Mensagem(){
-
+    public Mensagem() {
     }
 
     public Mensagem(long id, String mensagem) {
